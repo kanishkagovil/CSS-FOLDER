@@ -1,0 +1,13 @@
+p {
+    background-color: coral;
+    width: 500px;
+    height: 200px;
+    margin: 50px 20px 40px 80px;
+    /*padding: 50px;*/
+    /*border: 5px solid black;*/
+   /* border-radius: 50%;*/
+    background-image: url(./img.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

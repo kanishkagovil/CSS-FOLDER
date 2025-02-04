@@ -1,0 +1,14 @@
+* {
+   background-color: aqua;
+}
+body {
+    background-color: aqua;
+}
+
+#p{
+  background-color: brown;
+}
+p,
+h1{
+    background-color: green;
+}

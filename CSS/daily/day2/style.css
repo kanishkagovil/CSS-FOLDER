@@ -1,0 +1,14 @@
+p{
+   color: green(121,203,67); 
+   font-weight: bolder;
+}
+h1{
+    text-decoration-line:line-through
+    overline ;
+    text-decoration-color: rgb(51, 153, 73);
+    text-decoration-style: double;
+    text-decoration-thickness: 5px;
+    font-size: 50px;
+    letter-spacing: 10px;
+    word-spacing: 50px;
+}
